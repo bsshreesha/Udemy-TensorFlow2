@@ -27,17 +27,19 @@ The course focuses on **hands-on learning** with real-world projects and practic
 ## 📂 Repository Structure
 
 ```
-📁 03 Machine Learning and Neurons
-📁 04 Feedforward Artificial Neural Networks
-📁 05 Convolutional Neural Networks
-📁 06 Recurrent Neural Networks & Time Series
+📁 01 Colab Basics
+📁 02 Machine Learning
+📁 03 Artificial Neural Networks
+📁 04 tf.data
+📁 05 CNN
+📁 06 RNN
 📁 07 Natural Language Processing
-📁 08 Recommender Systems
-📁 09 Transfer Learning
-📁 10 Generative Adversarial Networks (GANs)
-📁 12 Reinforcement Learning (Stock Trading Bot)
-📁 13 Advanced TensorFlow
-📁 14 Low-Level TensorFlow
+📁 08 Recommendation System
+📁 09 Generative Adversarial Networks (GANs)
+📁 10 Reinforcement Learning (Stock Trading Bot)
+📁 11 Stock Trading Project
+📁 12 Advanced TensorFlow
+📁 13 Low-Level TensorFlow
 ```
 
 Each folder contains:
